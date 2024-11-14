@@ -6,8 +6,8 @@ tokens. Using text file to store; explore databases for production code.
 """
 
 # Enter client ID and secret from developer console; store in .env or similar
-CLIENT_ID = "f13cff03612143d78b4fd6d1bebd6d0a"
-CLIENT_SECRET = "0b824f953bd24a3d89c0f7cb73fee27f"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 
 class Token:
